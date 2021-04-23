@@ -13,7 +13,6 @@ Using GUI you can only select a total of 6 independent functions up to 10 indepe
 This project was fully programmed in Java using the NetBeans IDE.
 It is designed using the OOP paradigm although there are some global variables and functions with procedural paradigm (I was not so proficient at OOP-Paradigm when designed the project).
 
-This project was my Dissertation at Universidad De Castilla-La Mancha.
 Feel free to improve the efficiency of the algorithm and/or the data structures used, as well as re-designing for a full OOP paradigm if you want to.
 
 
